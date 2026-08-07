@@ -1,0 +1,259 @@
+problem_code,title,platform,topic,difficulty,rating,tags,link
+905C,Graphs Practice Problem 1,CSES,Graphs,Hard,4.5,graph bfs dfs,https://cses.fi/problemset/
+555D,Dynamic Programming Practice Problem 2,HackerRank,Dynamic Programming,Medium,4.8,dp memoization,https://www.hackerrank.com/domains/algorithms
+437E,Greedy Practice Problem 3,AtCoder,Greedy,Easy,4.8,greedy,https://atcoder.jp/
+355A,Sliding Window Practice Problem 4,Codeforces,Sliding Window,Easy,906,sliding window,https://codeforces.com/problemset/problem/1761/C
+1900E,Sliding Window Practice Problem 5,CSES,Sliding Window,Medium,4.4,sliding window,https://cses.fi/problemset/
+1008C,Greedy Practice Problem 6,HackerRank,Greedy,Easy,4.9,greedy,https://www.hackerrank.com/domains/algorithms
+1149A,Arrays Practice Problem 7,HackerRank,Arrays,Medium,4.7,array hashmap,https://www.hackerrank.com/domains/algorithms
+372C,Two Pointers Practice Problem 8,HackerRank,Two Pointers,Hard,4.1,two pointers,https://www.hackerrank.com/domains/algorithms
+9,Greedy Practice Problem 9,LeetCode,Greedy,Hard,4.9,greedy,https://leetcode.com/problems/greedy-practice-problem-9/
+507H,Binary Search Practice Problem 10,CSES,Binary Search,Medium,4.4,binary search sorting,https://cses.fi/problemset/
+1761A,Graphs Practice Problem 11,Codeforces,Graphs,Medium,1285,graph bfs dfs,https://codeforces.com/problemset/problem/1523/A
+1746H,Arrays Practice Problem 12,CSES,Arrays,Hard,4.6,array hashmap,https://cses.fi/problemset/
+1631F,Arrays Practice Problem 13,CSES,Arrays,Easy,4.4,array hashmap,https://cses.fi/problemset/
+394G,Arrays Practice Problem 14,HackerRank,Arrays,Hard,4.5,array hashmap,https://www.hackerrank.com/domains/algorithms
+1729A,Graphs Practice Problem 15,Codeforces,Graphs,Hard,1334,graph bfs dfs,https://codeforces.com/problemset/problem/754/B
+993E,Graphs Practice Problem 16,HackerRank,Graphs,Easy,4.8,graph bfs dfs,https://www.hackerrank.com/domains/algorithms
+1268H,Binary Search Practice Problem 17,Codeforces,Binary Search,Easy,2409,binary search sorting,https://codeforces.com/problemset/problem/1454/E
+898B,Two Pointers Practice Problem 18,Codeforces,Two Pointers,Medium,1926,two pointers,https://codeforces.com/problemset/problem/1310/C
+1411B,Graphs Practice Problem 19,CSES,Graphs,Medium,4.2,graph bfs dfs,https://cses.fi/problemset/
+1687A,Greedy Practice Problem 20,HackerRank,Greedy,Medium,4.9,greedy,https://www.hackerrank.com/domains/algorithms
+483G,Sliding Window Practice Problem 21,AtCoder,Sliding Window,Easy,4,sliding window,https://atcoder.jp/
+22,Binary Search Practice Problem 22,LeetCode,Binary Search,Medium,4.3,binary search sorting,https://leetcode.com/problems/binary-search-practice-problem-22/
+23,Two Pointers Practice Problem 23,LeetCode,Two Pointers,Medium,4.2,two pointers,https://leetcode.com/problems/two-pointers-practice-problem-23/
+1280B,Arrays Practice Problem 24,CSES,Arrays,Hard,4,array hashmap,https://cses.fi/problemset/
+670F,Two Pointers Practice Problem 25,CSES,Two Pointers,Hard,4.6,two pointers,https://cses.fi/problemset/
+327A,Greedy Practice Problem 26,AtCoder,Greedy,Easy,4,greedy,https://atcoder.jp/
+1179G,Arrays Practice Problem 27,CSES,Arrays,Medium,4.9,array hashmap,https://cses.fi/problemset/
+1816F,Arrays Practice Problem 28,HackerRank,Arrays,Easy,4.5,array hashmap,https://www.hackerrank.com/domains/algorithms
+603E,Binary Search Practice Problem 29,CSES,Binary Search,Medium,4.3,binary search sorting,https://cses.fi/problemset/
+1743D,Sliding Window Practice Problem 30,Codeforces,Sliding Window,Easy,1753,sliding window,https://codeforces.com/problemset/problem/1427/E
+31,Dynamic Programming Practice Problem 31,LeetCode,Dynamic Programming,Medium,4.6,dp memoization,https://leetcode.com/problems/dynamic-programming-practice-problem-31/
+1151D,Dynamic Programming Practice Problem 32,HackerRank,Dynamic Programming,Medium,5,dp memoization,https://www.hackerrank.com/domains/algorithms
+1347C,Binary Search Practice Problem 33,CSES,Binary Search,Easy,4.5,binary search sorting,https://cses.fi/problemset/
+519G,Two Pointers Practice Problem 34,HackerRank,Two Pointers,Medium,4.3,two pointers,https://www.hackerrank.com/domains/algorithms
+652A,Dynamic Programming Practice Problem 35,Codeforces,Dynamic Programming,Medium,1325,dp memoization,https://codeforces.com/problemset/problem/1109/B
+1093A,Greedy Practice Problem 36,AtCoder,Greedy,Medium,4.8,greedy,https://atcoder.jp/
+170C,Arrays Practice Problem 37,HackerRank,Arrays,Easy,4.9,array hashmap,https://www.hackerrank.com/domains/algorithms
+930G,Arrays Practice Problem 38,Codeforces,Arrays,Hard,1718,array hashmap,https://codeforces.com/problemset/problem/1598/G
+463B,Greedy Practice Problem 39,AtCoder,Greedy,Easy,4.6,greedy,https://atcoder.jp/
+833F,Two Pointers Practice Problem 40,Codeforces,Two Pointers,Easy,1357,two pointers,https://codeforces.com/problemset/problem/465/C
+451E,Two Pointers Practice Problem 41,CSES,Two Pointers,Medium,4.6,two pointers,https://cses.fi/problemset/
+42,Graphs Practice Problem 42,LeetCode,Graphs,Hard,4.2,graph bfs dfs,https://leetcode.com/problems/graphs-practice-problem-42/
+556H,Graphs Practice Problem 43,HackerRank,Graphs,Hard,4.9,graph bfs dfs,https://www.hackerrank.com/domains/algorithms
+382D,Dynamic Programming Practice Problem 44,Codeforces,Dynamic Programming,Medium,1035,dp memoization,https://codeforces.com/problemset/problem/1576/B
+167F,Arrays Practice Problem 45,AtCoder,Arrays,Hard,4.2,array hashmap,https://atcoder.jp/
+599F,Sliding Window Practice Problem 46,AtCoder,Sliding Window,Easy,5,sliding window,https://atcoder.jp/
+1258E,Dynamic Programming Practice Problem 47,CSES,Dynamic Programming,Easy,4.7,dp memoization,https://cses.fi/problemset/
+48,Binary Search Practice Problem 48,LeetCode,Binary Search,Medium,4.6,binary search sorting,https://leetcode.com/problems/binary-search-practice-problem-48/
+201H,Greedy Practice Problem 49,AtCoder,Greedy,Medium,4.3,greedy,https://atcoder.jp/
+50,Greedy Practice Problem 50,LeetCode,Greedy,Easy,4.5,greedy,https://leetcode.com/problems/greedy-practice-problem-50/
+51,Dynamic Programming Practice Problem 51,LeetCode,Dynamic Programming,Easy,4.8,dp memoization,https://leetcode.com/problems/dynamic-programming-practice-problem-51/
+544C,Two Pointers Practice Problem 52,CSES,Two Pointers,Medium,4.7,two pointers,https://cses.fi/problemset/
+963A,Binary Search Practice Problem 53,HackerRank,Binary Search,Medium,4.2,binary search sorting,https://www.hackerrank.com/domains/algorithms
+54,Graphs Practice Problem 54,LeetCode,Graphs,Hard,4.4,graph bfs dfs,https://leetcode.com/problems/graphs-practice-problem-54/
+906D,Sliding Window Practice Problem 55,HackerRank,Sliding Window,Medium,4.9,sliding window,https://www.hackerrank.com/domains/algorithms
+707E,Two Pointers Practice Problem 56,HackerRank,Two Pointers,Medium,4.4,two pointers,https://www.hackerrank.com/domains/algorithms
+57,Arrays Practice Problem 57,LeetCode,Arrays,Medium,4.2,array hashmap,https://leetcode.com/problems/arrays-practice-problem-57/
+1646D,Two Pointers Practice Problem 58,CSES,Two Pointers,Easy,5,two pointers,https://cses.fi/problemset/
+288D,Binary Search Practice Problem 59,AtCoder,Binary Search,Medium,4.6,binary search sorting,https://atcoder.jp/
+657G,Two Pointers Practice Problem 60,AtCoder,Two Pointers,Medium,4.5,two pointers,https://atcoder.jp/
+1907E,Two Pointers Practice Problem 61,CSES,Two Pointers,Medium,4.6,two pointers,https://cses.fi/problemset/
+1641F,Greedy Practice Problem 62,Codeforces,Greedy,Easy,2445,greedy,https://codeforces.com/problemset/problem/682/C
+63,Binary Search Practice Problem 63,LeetCode,Binary Search,Medium,5,binary search sorting,https://leetcode.com/problems/binary-search-practice-problem-63/
+64,Greedy Practice Problem 64,LeetCode,Greedy,Easy,4.8,greedy,https://leetcode.com/problems/greedy-practice-problem-64/
+1841B,Greedy Practice Problem 65,AtCoder,Greedy,Medium,4.5,greedy,https://atcoder.jp/
+1183E,Dynamic Programming Practice Problem 66,AtCoder,Dynamic Programming,Easy,4.3,dp memoization,https://atcoder.jp/
+1133F,Binary Search Practice Problem 67,AtCoder,Binary Search,Medium,4.4,binary search sorting,https://atcoder.jp/
+736G,Dynamic Programming Practice Problem 68,HackerRank,Dynamic Programming,Medium,4.2,dp memoization,https://www.hackerrank.com/domains/algorithms
+815C,Arrays Practice Problem 69,Codeforces,Arrays,Easy,1784,array hashmap,https://codeforces.com/problemset/problem/769/B
+653H,Sliding Window Practice Problem 70,AtCoder,Sliding Window,Medium,4.3,sliding window,https://atcoder.jp/
+71,Greedy Practice Problem 71,LeetCode,Greedy,Medium,4.4,greedy,https://leetcode.com/problems/greedy-practice-problem-71/
+1588D,Dynamic Programming Practice Problem 72,AtCoder,Dynamic Programming,Hard,4.8,dp memoization,https://atcoder.jp/
+73,Binary Search Practice Problem 73,LeetCode,Binary Search,Hard,4.2,binary search sorting,https://leetcode.com/problems/binary-search-practice-problem-73/
+910C,Binary Search Practice Problem 74,Codeforces,Binary Search,Medium,1676,binary search sorting,https://codeforces.com/problemset/problem/889/G
+1328G,Graphs Practice Problem 75,AtCoder,Graphs,Medium,4.6,graph bfs dfs,https://atcoder.jp/
+1732F,Dynamic Programming Practice Problem 76,AtCoder,Dynamic Programming,Easy,4.6,dp memoization,https://atcoder.jp/
+77,Greedy Practice Problem 77,LeetCode,Greedy,Medium,4.7,greedy,https://leetcode.com/problems/greedy-practice-problem-77/
+775G,Greedy Practice Problem 78,AtCoder,Greedy,Medium,4.7,greedy,https://atcoder.jp/
+662G,Dynamic Programming Practice Problem 79,Codeforces,Dynamic Programming,Easy,1425,dp memoization,https://codeforces.com/problemset/problem/1363/H
+245F,Dynamic Programming Practice Problem 80,AtCoder,Dynamic Programming,Easy,4.1,dp memoization,https://atcoder.jp/
+1180D,Arrays Practice Problem 81,AtCoder,Arrays,Easy,4.8,array hashmap,https://atcoder.jp/
+613D,Graphs Practice Problem 82,AtCoder,Graphs,Hard,4.6,graph bfs dfs,https://atcoder.jp/
+1745G,Dynamic Programming Practice Problem 83,Codeforces,Dynamic Programming,Easy,1753,dp memoization,https://codeforces.com/problemset/problem/672/H
+525C,Two Pointers Practice Problem 84,CSES,Two Pointers,Easy,4.7,two pointers,https://cses.fi/problemset/
+367H,Arrays Practice Problem 85,AtCoder,Arrays,Hard,4,array hashmap,https://atcoder.jp/
+86,Sliding Window Practice Problem 86,LeetCode,Sliding Window,Easy,4.7,sliding window,https://leetcode.com/problems/sliding-window-practice-problem-86/
+1158F,Dynamic Programming Practice Problem 87,HackerRank,Dynamic Programming,Medium,4.7,dp memoization,https://www.hackerrank.com/domains/algorithms
+1556H,Sliding Window Practice Problem 88,AtCoder,Sliding Window,Medium,4.1,sliding window,https://atcoder.jp/
+1918D,Binary Search Practice Problem 89,Codeforces,Binary Search,Easy,2227,binary search sorting,https://codeforces.com/problemset/problem/519/C
+1478B,Graphs Practice Problem 90,Codeforces,Graphs,Hard,1267,graph bfs dfs,https://codeforces.com/problemset/problem/39/H
+1726H,Graphs Practice Problem 91,HackerRank,Graphs,Medium,4.2,graph bfs dfs,https://www.hackerrank.com/domains/algorithms
+1263G,Arrays Practice Problem 92,HackerRank,Arrays,Medium,4.2,array hashmap,https://www.hackerrank.com/domains/algorithms
+353G,Graphs Practice Problem 93,CSES,Graphs,Hard,4.9,graph bfs dfs,https://cses.fi/problemset/
+651F,Two Pointers Practice Problem 94,AtCoder,Two Pointers,Medium,4,two pointers,https://atcoder.jp/
+447F,Sliding Window Practice Problem 95,CSES,Sliding Window,Medium,4.3,sliding window,https://cses.fi/problemset/
+1113B,Dynamic Programming Practice Problem 96,AtCoder,Dynamic Programming,Medium,5,dp memoization,https://atcoder.jp/
+311H,Two Pointers Practice Problem 97,HackerRank,Two Pointers,Medium,4.2,two pointers,https://www.hackerrank.com/domains/algorithms
+98,Greedy Practice Problem 98,LeetCode,Greedy,Hard,4.7,greedy,https://leetcode.com/problems/greedy-practice-problem-98/
+347G,Two Pointers Practice Problem 99,HackerRank,Two Pointers,Easy,4.5,two pointers,https://www.hackerrank.com/domains/algorithms
+374G,Binary Search Practice Problem 100,CSES,Binary Search,Easy,5,binary search sorting,https://cses.fi/problemset/
+1182D,Dynamic Programming Practice Problem 101,Codeforces,Dynamic Programming,Medium,2103,dp memoization,https://codeforces.com/problemset/problem/826/H
+172C,Graphs Practice Problem 102,AtCoder,Graphs,Easy,4.8,graph bfs dfs,https://atcoder.jp/
+1718D,Graphs Practice Problem 103,CSES,Graphs,Easy,4.8,graph bfs dfs,https://cses.fi/problemset/
+444C,Arrays Practice Problem 104,HackerRank,Arrays,Easy,4.3,array hashmap,https://www.hackerrank.com/domains/algorithms
+1022C,Graphs Practice Problem 105,HackerRank,Graphs,Easy,4.5,graph bfs dfs,https://www.hackerrank.com/domains/algorithms
+333H,Binary Search Practice Problem 106,AtCoder,Binary Search,Hard,4.8,binary search sorting,https://atcoder.jp/
+1808G,Two Pointers Practice Problem 107,Codeforces,Two Pointers,Medium,2143,two pointers,https://codeforces.com/problemset/problem/1912/D
+542G,Binary Search Practice Problem 108,AtCoder,Binary Search,Hard,5,binary search sorting,https://atcoder.jp/
+538F,Binary Search Practice Problem 109,AtCoder,Binary Search,Hard,4.2,binary search sorting,https://atcoder.jp/
+110,Sliding Window Practice Problem 110,LeetCode,Sliding Window,Medium,4.9,sliding window,https://leetcode.com/problems/sliding-window-practice-problem-110/
+141F,Sliding Window Practice Problem 111,AtCoder,Sliding Window,Easy,4.8,sliding window,https://atcoder.jp/
+100A,Arrays Practice Problem 112,CSES,Arrays,Hard,4.3,array hashmap,https://cses.fi/problemset/
+113,Dynamic Programming Practice Problem 113,LeetCode,Dynamic Programming,Medium,4.7,dp memoization,https://leetcode.com/problems/dynamic-programming-practice-problem-113/
+978D,Arrays Practice Problem 114,AtCoder,Arrays,Easy,4.9,array hashmap,https://atcoder.jp/
+115,Binary Search Practice Problem 115,LeetCode,Binary Search,Medium,4.2,binary search sorting,https://leetcode.com/problems/binary-search-practice-problem-115/
+116,Sliding Window Practice Problem 116,LeetCode,Sliding Window,Easy,4,sliding window,https://leetcode.com/problems/sliding-window-practice-problem-116/
+1382B,Arrays Practice Problem 117,Codeforces,Arrays,Easy,893,array hashmap,https://codeforces.com/problemset/problem/789/D
+1729E,Two Pointers Practice Problem 118,Codeforces,Two Pointers,Medium,2347,two pointers,https://codeforces.com/problemset/problem/165/E
+1742G,Graphs Practice Problem 119,HackerRank,Graphs,Medium,5,graph bfs dfs,https://www.hackerrank.com/domains/algorithms
+771A,Binary Search Practice Problem 120,AtCoder,Binary Search,Hard,4.9,binary search sorting,https://atcoder.jp/
+561H,Binary Search Practice Problem 121,CSES,Binary Search,Medium,4.8,binary search sorting,https://cses.fi/problemset/
+1558A,Two Pointers Practice Problem 122,HackerRank,Two Pointers,Hard,4.4,two pointers,https://www.hackerrank.com/domains/algorithms
+1268E,Greedy Practice Problem 123,AtCoder,Greedy,Easy,4.4,greedy,https://atcoder.jp/
+920F,Greedy Practice Problem 124,AtCoder,Greedy,Easy,4.4,greedy,https://atcoder.jp/
+1638B,Dynamic Programming Practice Problem 125,HackerRank,Dynamic Programming,Medium,4.2,dp memoization,https://www.hackerrank.com/domains/algorithms
+325G,Arrays Practice Problem 126,CSES,Arrays,Medium,4,array hashmap,https://cses.fi/problemset/
+1202E,Dynamic Programming Practice Problem 127,Codeforces,Dynamic Programming,Hard,1762,dp memoization,https://codeforces.com/problemset/problem/609/H
+386E,Two Pointers Practice Problem 128,CSES,Two Pointers,Hard,4.8,two pointers,https://cses.fi/problemset/
+129,Dynamic Programming Practice Problem 129,LeetCode,Dynamic Programming,Medium,4,dp memoization,https://leetcode.com/problems/dynamic-programming-practice-problem-129/
+876F,Dynamic Programming Practice Problem 130,HackerRank,Dynamic Programming,Hard,4.7,dp memoization,https://www.hackerrank.com/domains/algorithms
+1566G,Greedy Practice Problem 131,CSES,Greedy,Easy,4.4,greedy,https://cses.fi/problemset/
+883B,Dynamic Programming Practice Problem 132,CSES,Dynamic Programming,Medium,4.1,dp memoization,https://cses.fi/problemset/
+339E,Graphs Practice Problem 133,Codeforces,Graphs,Easy,1750,graph bfs dfs,https://codeforces.com/problemset/problem/1862/B
+134,Two Pointers Practice Problem 134,LeetCode,Two Pointers,Medium,4.2,two pointers,https://leetcode.com/problems/two-pointers-practice-problem-134/
+1884A,Graphs Practice Problem 135,CSES,Graphs,Easy,4.3,graph bfs dfs,https://cses.fi/problemset/
+932C,Sliding Window Practice Problem 136,HackerRank,Sliding Window,Medium,4.8,sliding window,https://www.hackerrank.com/domains/algorithms
+137,Arrays Practice Problem 137,LeetCode,Arrays,Medium,4.7,array hashmap,https://leetcode.com/problems/arrays-practice-problem-137/
+1119G,Sliding Window Practice Problem 138,CSES,Sliding Window,Easy,4.1,sliding window,https://cses.fi/problemset/
+1397H,Graphs Practice Problem 139,CSES,Graphs,Easy,5,graph bfs dfs,https://cses.fi/problemset/
+543C,Greedy Practice Problem 140,HackerRank,Greedy,Medium,4.2,greedy,https://www.hackerrank.com/domains/algorithms
+210A,Greedy Practice Problem 141,CSES,Greedy,Easy,4.3,greedy,https://cses.fi/problemset/
+142,Binary Search Practice Problem 142,LeetCode,Binary Search,Medium,4.7,binary search sorting,https://leetcode.com/problems/binary-search-practice-problem-142/
+143,Binary Search Practice Problem 143,LeetCode,Binary Search,Hard,4.9,binary search sorting,https://leetcode.com/problems/binary-search-practice-problem-143/
+144,Greedy Practice Problem 144,LeetCode,Greedy,Medium,4.5,greedy,https://leetcode.com/problems/greedy-practice-problem-144/
+1036B,Arrays Practice Problem 145,Codeforces,Arrays,Easy,1304,array hashmap,https://codeforces.com/problemset/problem/78/A
+1993D,Dynamic Programming Practice Problem 146,AtCoder,Dynamic Programming,Medium,4.4,dp memoization,https://atcoder.jp/
+762B,Dynamic Programming Practice Problem 147,Codeforces,Dynamic Programming,Easy,976,dp memoization,https://codeforces.com/problemset/problem/1973/H
+611E,Arrays Practice Problem 148,Codeforces,Arrays,Easy,2562,array hashmap,https://codeforces.com/problemset/problem/224/C
+624D,Sliding Window Practice Problem 149,CSES,Sliding Window,Hard,4.7,sliding window,https://cses.fi/problemset/
+150,Graphs Practice Problem 150,LeetCode,Graphs,Medium,4.6,graph bfs dfs,https://leetcode.com/problems/graphs-practice-problem-150/
+151,Graphs Practice Problem 151,LeetCode,Graphs,Medium,4.1,graph bfs dfs,https://leetcode.com/problems/graphs-practice-problem-151/
+152,Arrays Practice Problem 152,LeetCode,Arrays,Easy,4.9,array hashmap,https://leetcode.com/problems/arrays-practice-problem-152/
+153,Dynamic Programming Practice Problem 153,LeetCode,Dynamic Programming,Easy,4.3,dp memoization,https://leetcode.com/problems/dynamic-programming-practice-problem-153/
+154,Sliding Window Practice Problem 154,LeetCode,Sliding Window,Medium,4.8,sliding window,https://leetcode.com/problems/sliding-window-practice-problem-154/
+232B,Sliding Window Practice Problem 155,Codeforces,Sliding Window,Easy,1641,sliding window,https://codeforces.com/problemset/problem/406/D
+156,Two Pointers Practice Problem 156,LeetCode,Two Pointers,Medium,4.8,two pointers,https://leetcode.com/problems/two-pointers-practice-problem-156/
+1476G,Two Pointers Practice Problem 157,CSES,Two Pointers,Medium,4.2,two pointers,https://cses.fi/problemset/
+1068C,Arrays Practice Problem 158,AtCoder,Arrays,Medium,4.8,array hashmap,https://atcoder.jp/
+1141H,Greedy Practice Problem 159,CSES,Greedy,Easy,4.7,greedy,https://cses.fi/problemset/
+160,Graphs Practice Problem 160,LeetCode,Graphs,Easy,4.8,graph bfs dfs,https://leetcode.com/problems/graphs-practice-problem-160/
+161,Dynamic Programming Practice Problem 161,LeetCode,Dynamic Programming,Medium,4.4,dp memoization,https://leetcode.com/problems/dynamic-programming-practice-problem-161/
+1788D,Graphs Practice Problem 162,CSES,Graphs,Hard,4.3,graph bfs dfs,https://cses.fi/problemset/
+163,Binary Search Practice Problem 163,LeetCode,Binary Search,Medium,4.2,binary search sorting,https://leetcode.com/problems/binary-search-practice-problem-163/
+790F,Two Pointers Practice Problem 164,HackerRank,Two Pointers,Medium,4.5,two pointers,https://www.hackerrank.com/domains/algorithms
+1063E,Greedy Practice Problem 165,CSES,Greedy,Hard,4.4,greedy,https://cses.fi/problemset/
+692E,Dynamic Programming Practice Problem 166,AtCoder,Dynamic Programming,Easy,4.7,dp memoization,https://atcoder.jp/
+167,Arrays Practice Problem 167,LeetCode,Arrays,Medium,4.4,array hashmap,https://leetcode.com/problems/arrays-practice-problem-167/
+232A,Two Pointers Practice Problem 168,Codeforces,Two Pointers,Easy,2284,two pointers,https://codeforces.com/problemset/problem/607/H
+1072D,Graphs Practice Problem 169,AtCoder,Graphs,Hard,4.3,graph bfs dfs,https://atcoder.jp/
+170,Two Pointers Practice Problem 170,LeetCode,Two Pointers,Easy,4.7,two pointers,https://leetcode.com/problems/two-pointers-practice-problem-170/
+171,Binary Search Practice Problem 171,LeetCode,Binary Search,Medium,4.1,binary search sorting,https://leetcode.com/problems/binary-search-practice-problem-171/
+921D,Dynamic Programming Practice Problem 172,CSES,Dynamic Programming,Easy,4.5,dp memoization,https://cses.fi/problemset/
+1232G,Dynamic Programming Practice Problem 173,AtCoder,Dynamic Programming,Hard,5,dp memoization,https://atcoder.jp/
+1635A,Graphs Practice Problem 174,HackerRank,Graphs,Medium,4.5,graph bfs dfs,https://www.hackerrank.com/domains/algorithms
+1756F,Sliding Window Practice Problem 175,CSES,Sliding Window,Easy,4.6,sliding window,https://cses.fi/problemset/
+664A,Graphs Practice Problem 176,CSES,Graphs,Easy,4.6,graph bfs dfs,https://cses.fi/problemset/
+668D,Two Pointers Practice Problem 177,CSES,Two Pointers,Easy,4.1,two pointers,https://cses.fi/problemset/
+1110E,Sliding Window Practice Problem 178,HackerRank,Sliding Window,Medium,4,sliding window,https://www.hackerrank.com/domains/algorithms
+1444D,Sliding Window Practice Problem 179,CSES,Sliding Window,Medium,4.4,sliding window,https://cses.fi/problemset/
+455H,Graphs Practice Problem 180,CSES,Graphs,Medium,5,graph bfs dfs,https://cses.fi/problemset/
+1333E,Sliding Window Practice Problem 181,Codeforces,Sliding Window,Easy,2198,sliding window,https://codeforces.com/problemset/problem/1473/F
+1785H,Dynamic Programming Practice Problem 182,AtCoder,Dynamic Programming,Medium,4.9,dp memoization,https://atcoder.jp/
+839A,Greedy Practice Problem 183,AtCoder,Greedy,Easy,4.4,greedy,https://atcoder.jp/
+583E,Greedy Practice Problem 184,AtCoder,Greedy,Medium,4.1,greedy,https://atcoder.jp/
+1017F,Binary Search Practice Problem 185,AtCoder,Binary Search,Medium,4.2,binary search sorting,https://atcoder.jp/
+186,Arrays Practice Problem 186,LeetCode,Arrays,Medium,4.2,array hashmap,https://leetcode.com/problems/arrays-practice-problem-186/
+593B,Binary Search Practice Problem 187,Codeforces,Binary Search,Easy,1722,binary search sorting,https://codeforces.com/problemset/problem/57/G
+312D,Two Pointers Practice Problem 188,CSES,Two Pointers,Medium,4.5,two pointers,https://cses.fi/problemset/
+189,Two Pointers Practice Problem 189,LeetCode,Two Pointers,Easy,4.2,two pointers,https://leetcode.com/problems/two-pointers-practice-problem-189/
+640F,Sliding Window Practice Problem 190,Codeforces,Sliding Window,Easy,1258,sliding window,https://codeforces.com/problemset/problem/1458/D
+348B,Graphs Practice Problem 191,AtCoder,Graphs,Medium,4.2,graph bfs dfs,https://atcoder.jp/
+1484F,Two Pointers Practice Problem 192,Codeforces,Two Pointers,Easy,1331,two pointers,https://codeforces.com/problemset/problem/746/H
+890H,Arrays Practice Problem 193,AtCoder,Arrays,Medium,4.7,array hashmap,https://atcoder.jp/
+492H,Arrays Practice Problem 194,Codeforces,Arrays,Medium,1464,array hashmap,https://codeforces.com/problemset/problem/102/F
+195,Arrays Practice Problem 195,LeetCode,Arrays,Medium,4.1,array hashmap,https://leetcode.com/problems/arrays-practice-problem-195/
+958H,Two Pointers Practice Problem 196,HackerRank,Two Pointers,Hard,4.7,two pointers,https://www.hackerrank.com/domains/algorithms
+807A,Two Pointers Practice Problem 197,HackerRank,Two Pointers,Easy,4.4,two pointers,https://www.hackerrank.com/domains/algorithms
+1020A,Binary Search Practice Problem 198,AtCoder,Binary Search,Medium,4.9,binary search sorting,https://atcoder.jp/
+101C,Arrays Practice Problem 199,CSES,Arrays,Medium,4.2,array hashmap,https://cses.fi/problemset/
+1481B,Graphs Practice Problem 200,HackerRank,Graphs,Hard,4.4,graph bfs dfs,https://www.hackerrank.com/domains/algorithms
+1887C,Dynamic Programming Practice Problem 201,AtCoder,Dynamic Programming,Hard,4.2,dp memoization,https://atcoder.jp/
+202,Binary Search Practice Problem 202,LeetCode,Binary Search,Easy,4.1,binary search sorting,https://leetcode.com/problems/binary-search-practice-problem-202/
+751G,Dynamic Programming Practice Problem 203,HackerRank,Dynamic Programming,Medium,4.4,dp memoization,https://www.hackerrank.com/domains/algorithms
+526B,Sliding Window Practice Problem 204,HackerRank,Sliding Window,Medium,4,sliding window,https://www.hackerrank.com/domains/algorithms
+205,Two Pointers Practice Problem 205,LeetCode,Two Pointers,Medium,4.8,two pointers,https://leetcode.com/problems/two-pointers-practice-problem-205/
+1262C,Two Pointers Practice Problem 206,AtCoder,Two Pointers,Medium,5,two pointers,https://atcoder.jp/
+1234F,Dynamic Programming Practice Problem 207,AtCoder,Dynamic Programming,Medium,4.4,dp memoization,https://atcoder.jp/
+1395B,Arrays Practice Problem 208,HackerRank,Arrays,Medium,4.9,array hashmap,https://www.hackerrank.com/domains/algorithms
+744F,Sliding Window Practice Problem 209,Codeforces,Sliding Window,Medium,1486,sliding window,https://codeforces.com/problemset/problem/1794/A
+1316E,Dynamic Programming Practice Problem 210,AtCoder,Dynamic Programming,Medium,4.7,dp memoization,https://atcoder.jp/
+1024D,Greedy Practice Problem 211,AtCoder,Greedy,Easy,4.1,greedy,https://atcoder.jp/
+1431G,Greedy Practice Problem 212,HackerRank,Greedy,Medium,4.1,greedy,https://www.hackerrank.com/domains/algorithms
+820C,Two Pointers Practice Problem 213,HackerRank,Two Pointers,Easy,4.2,two pointers,https://www.hackerrank.com/domains/algorithms
+1840C,Binary Search Practice Problem 214,AtCoder,Binary Search,Medium,4.2,binary search sorting,https://atcoder.jp/
+993C,Graphs Practice Problem 215,CSES,Graphs,Easy,5,graph bfs dfs,https://cses.fi/problemset/
+216,Two Pointers Practice Problem 216,LeetCode,Two Pointers,Medium,4.3,two pointers,https://leetcode.com/problems/two-pointers-practice-problem-216/
+236C,Graphs Practice Problem 217,CSES,Graphs,Medium,4.9,graph bfs dfs,https://cses.fi/problemset/
+1983C,Arrays Practice Problem 218,HackerRank,Arrays,Easy,5,array hashmap,https://www.hackerrank.com/domains/algorithms
+1337E,Binary Search Practice Problem 219,HackerRank,Binary Search,Medium,4.3,binary search sorting,https://www.hackerrank.com/domains/algorithms
+220,Graphs Practice Problem 220,LeetCode,Graphs,Medium,4.9,graph bfs dfs,https://leetcode.com/problems/graphs-practice-problem-220/
+1229G,Dynamic Programming Practice Problem 221,HackerRank,Dynamic Programming,Easy,4.2,dp memoization,https://www.hackerrank.com/domains/algorithms
+1634F,Arrays Practice Problem 222,Codeforces,Arrays,Medium,2127,array hashmap,https://codeforces.com/problemset/problem/249/A
+1073C,Greedy Practice Problem 223,Codeforces,Greedy,Easy,1344,greedy,https://codeforces.com/problemset/problem/1505/C
+224,Arrays Practice Problem 224,LeetCode,Arrays,Hard,4.2,array hashmap,https://leetcode.com/problems/arrays-practice-problem-224/
+225,Arrays Practice Problem 225,LeetCode,Arrays,Medium,4.9,array hashmap,https://leetcode.com/problems/arrays-practice-problem-225/
+1812C,Binary Search Practice Problem 226,AtCoder,Binary Search,Easy,4.8,binary search sorting,https://atcoder.jp/
+724B,Dynamic Programming Practice Problem 227,HackerRank,Dynamic Programming,Medium,4.7,dp memoization,https://www.hackerrank.com/domains/algorithms
+1328B,Sliding Window Practice Problem 228,Codeforces,Sliding Window,Medium,2050,sliding window,https://codeforces.com/problemset/problem/1161/B
+709G,Two Pointers Practice Problem 229,Codeforces,Two Pointers,Hard,2496,two pointers,https://codeforces.com/problemset/problem/1398/H
+1748A,Two Pointers Practice Problem 230,CSES,Two Pointers,Easy,4.6,two pointers,https://cses.fi/problemset/
+1755E,Graphs Practice Problem 231,Codeforces,Graphs,Medium,2077,graph bfs dfs,https://codeforces.com/problemset/problem/324/A
+570C,Graphs Practice Problem 232,HackerRank,Graphs,Easy,4,graph bfs dfs,https://www.hackerrank.com/domains/algorithms
+233,Dynamic Programming Practice Problem 233,LeetCode,Dynamic Programming,Medium,4.8,dp memoization,https://leetcode.com/problems/dynamic-programming-practice-problem-233/
+234,Sliding Window Practice Problem 234,LeetCode,Sliding Window,Medium,4.6,sliding window,https://leetcode.com/problems/sliding-window-practice-problem-234/
+235,Sliding Window Practice Problem 235,LeetCode,Sliding Window,Easy,4.4,sliding window,https://leetcode.com/problems/sliding-window-practice-problem-235/
+502H,Dynamic Programming Practice Problem 236,CSES,Dynamic Programming,Medium,4.7,dp memoization,https://cses.fi/problemset/
+1501C,Graphs Practice Problem 237,CSES,Graphs,Easy,4.2,graph bfs dfs,https://cses.fi/problemset/
+336E,Sliding Window Practice Problem 238,Codeforces,Sliding Window,Hard,1375,sliding window,https://codeforces.com/problemset/problem/40/F
+628D,Arrays Practice Problem 239,CSES,Arrays,Medium,4.5,array hashmap,https://cses.fi/problemset/
+225D,Binary Search Practice Problem 240,Codeforces,Binary Search,Hard,2566,binary search sorting,https://codeforces.com/problemset/problem/1303/D
+1788G,Arrays Practice Problem 241,CSES,Arrays,Medium,4.1,array hashmap,https://cses.fi/problemset/
+537D,Dynamic Programming Practice Problem 242,AtCoder,Dynamic Programming,Easy,4.5,dp memoization,https://atcoder.jp/
+581H,Arrays Practice Problem 243,Codeforces,Arrays,Easy,1377,array hashmap,https://codeforces.com/problemset/problem/76/H
+1057G,Two Pointers Practice Problem 244,Codeforces,Two Pointers,Hard,1612,two pointers,https://codeforces.com/problemset/problem/534/G
+1566D,Dynamic Programming Practice Problem 245,Codeforces,Dynamic Programming,Easy,2081,dp memoization,https://codeforces.com/problemset/problem/1873/H
+599E,Greedy Practice Problem 246,HackerRank,Greedy,Easy,4.4,greedy,https://www.hackerrank.com/domains/algorithms
+1411H,Binary Search Practice Problem 247,AtCoder,Binary Search,Medium,4.2,binary search sorting,https://atcoder.jp/
+1973F,Graphs Practice Problem 248,HackerRank,Graphs,Hard,4.7,graph bfs dfs,https://www.hackerrank.com/domains/algorithms
+1492D,Graphs Practice Problem 249,AtCoder,Graphs,Easy,4,graph bfs dfs,https://atcoder.jp/
+675G,Graphs Practice Problem 250,Codeforces,Graphs,Easy,1578,graph bfs dfs,https://codeforces.com/problemset/problem/1902/B
+1560B,Arrays Practice Problem 251,HackerRank,Arrays,Medium,4.6,array hashmap,https://www.hackerrank.com/domains/algorithms
+1366D,Binary Search Practice Problem 252,AtCoder,Binary Search,Easy,4.3,binary search sorting,https://atcoder.jp/
+684A,Greedy Practice Problem 253,AtCoder,Greedy,Hard,4.8,greedy,https://atcoder.jp/
+305B,Dynamic Programming Practice Problem 254,Codeforces,Dynamic Programming,Easy,1528,dp memoization,https://codeforces.com/problemset/problem/1777/A
+138B,Arrays Practice Problem 255,AtCoder,Arrays,Medium,4.8,array hashmap,https://atcoder.jp/
+256,Two Pointers Practice Problem 256,LeetCode,Two Pointers,Medium,4.6,two pointers,https://leetcode.com/problems/two-pointers-practice-problem-256/
+1325G,Arrays Practice Problem 257,AtCoder,Arrays,Easy,4.2,array hashmap,https://atcoder.jp/
+258,Two Pointers Practice Problem 258,LeetCode,Two Pointers,Medium,4.3,two pointers,https://leetcode.com/problems/two-pointers-practice-problem-258/
